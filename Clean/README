@@ -1,0 +1,8 @@
+#### Written by Nicola Pastorello
+#### SSIL, 24th November 2015
+
+### To run:
+
+# 0_gettingData.py -> Extract the MediBio data and save it as .json and .csv files
+# 1_dataConversion.py -> join the .json data into a dictionary of pandas DataFrames
+# ...continue
